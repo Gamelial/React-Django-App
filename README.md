@@ -95,7 +95,7 @@ source venv/bin/activate
 4. Clone the Project
 
 bash
-git clone https://github.com/Ochubaanthony/React-Django-App.git
+git clone https://github.com/Gamelial/React-Django-App.git
 cd React-Django-App
 
 
@@ -183,7 +183,7 @@ source venv/bin/activate
 4. Clone the Project
 
 bash
-git clone https://github.com/Ochubaanthony/React-Django-App.git
+git clone https://github.com/Gamelial/React-Django-App.git
 cd React-Django-App
 
 ls 
